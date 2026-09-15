@@ -1,3 +1,5 @@
+<img width="1910" height="1012" alt="image" src="https://github.com/user-attachments/assets/a8f65f83-d3d6-4fd6-898e-8fc8730b5bd0" />
+
 # 💕 JASS Mizo Love Card Generator v1.1
 
 A beautiful, lightweight **single-file PySide6 desktop application** for creating personalized romantic cards using Mizo phrases and messages.
